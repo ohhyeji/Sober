@@ -1,13 +1,20 @@
 <h1>Sober</h1>
 
-목차
-프로젝트 개요
-팀원소개
-개발환경
-ERD 및 작업흐름도
-페이지 구성
+## ✨목차
+▶ [프로젝트 개요](#project)
+<br>
+▶ 팀원소개
+<br>
+▶ 개발환경
+<br>
+▶ ERD 및 작업흐름도
+<br>
+▶ 페이지 구성
+<br>
 
-<h1>프로젝트 개요</h1>
+
+## ✨프로젝트 개요
+#project
 프로젝트 개요
 <br>
 <img src = https://github.com/ohhyeji/Sober/assets/132237910/bb31fc7b-7803-44fb-9211-7e0067d27b5e>
@@ -20,22 +27,22 @@ ERD 및 작업흐름도
 세부기능
 <br>
 <img src = https://github.com/ohhyeji/Sober/assets/132237910/8cd513f5-d319-4cc5-886d-9aeb4bda30dd>
-<h1>팀원소개</h1>
+<h2>✨팀원소개</h2>
 <br>
 <img src = https://github.com/ohhyeji/Sober/assets/132237910/0e12897d-6a78-46b5-b15e-69ede9a79a66>
 </img>
-<h1>개발환경</h1>
+<h2>✨개발환경</h2>
 <br>
 <img src = https://github.com/ohhyeji/Sober/assets/132237910/525c7a94-4b9f-4716-888f-07cb7599df41>
 </img>
-<h1>ERD 및 작업흐름도</h1>
+<h2>✨ERD 및 작업흐름도</h2>
 <br>
 <img src = https://github.com/ohhyeji/Sober/assets/132237910/fde8e6cd-513b-489c-8b94-c1a28e5d5c31>
 <br>
 <img src = https://github.com/ohhyeji/Sober/assets/132237910/1ecaef7b-d2f7-4454-9cd4-7673c4e4cc93>
 ></img>
 
-<h1>페이지 구성</h1>
+<h2>✨페이지 구성</h2>
 <font size = 20>메인화면</font>
 <br>
 : js의 Swiper 라이브러리를 사용한 스와이퍼 처리, 통합 검색 기능
