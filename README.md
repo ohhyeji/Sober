@@ -1,7 +1,7 @@
 <h1>Sober</h1>
 
 ## ✨목차
-▶ [프로젝트 개요](#project)
+▶ [프로젝트 개요](#1.프로젝트-개요)
 <br>
 ▶ 팀원소개
 <br>
@@ -13,9 +13,7 @@
 <br>
 
 
-## ✨프로젝트 개요
-#project
-프로젝트 개요
+## 1.프로젝트 개요
 <br>
 <img src = https://github.com/ohhyeji/Sober/assets/132237910/bb31fc7b-7803-44fb-9211-7e0067d27b5e>
 </img>
