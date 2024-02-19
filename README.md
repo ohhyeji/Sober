@@ -12,8 +12,7 @@
 <br>
 : Spring Security를 사용한 사용자 비밀번호 암호화
 <br>
-<img src = https://github.com/ohhyeji/Sober/assets/132237910/654e34bd-ee93-4228-99fc-e86dd469883b
->
+<img src = https://github.com/ohhyeji/Sober/assets/132237910/654e34bd-ee93-4228-99fc-e86dd469883b>
 </img>
 
 <font size = 20>파티원 모집 게시판</font>
